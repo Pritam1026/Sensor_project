@@ -1,0 +1,5 @@
+numpy
+pandas
+pymongo==4.2.0
+
+-e .
